@@ -17,6 +17,9 @@ This repository contains Data Visualization projects in Python.
   
   6. ### [Regression Plots in Seaborn](https://github.com/Ravjot03/Data-Visualization-with-Seaborn/tree/master/Regression%20Plots):
         Creating Regression plots in Seaborn.
+        
+  7. ### [Data Aware Grids in Seaborn](https://github.com/Ravjot03/Data-Visualization-with-Seaborn/tree/master/Data%20Aware%20Grids):
+        Creating FacetGrid, PairGrid and JointGrid plots in Seaborn.
 
 - ## [COVID-19 VISUALIZATIONS PROJECT](https://github.com/Ravjot03/Covid-19-Visualizations):
     This project contains dataset of **Corona virus patients from South Korea**
