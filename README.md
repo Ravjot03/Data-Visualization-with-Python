@@ -14,6 +14,9 @@ This repository contains Data Visualization projects in Python.
   4. ### [Customizing Seaborn Plots](https://github.com/Ravjot03/Data-Visualization-with-Seaborn/tree/master/Customizing%20Seaborn%20Plots)
   
   5. ### [Additonal Plots in Seaborn](https://github.com/Ravjot03/Data-Visualization-with-Seaborn/tree/master/Additional%20Plots)
+  
+  6. ### [Regression Plots in Seaborn](https://github.com/Ravjot03/Data-Visualization-with-Seaborn/tree/master/Regression%20Plots):
+        Creating Regression plots in Seaborn.
 
 - ## [COVID-19 VISUALIZATIONS PROJECT](https://github.com/Ravjot03/Covid-19-Visualizations):
     This project contains dataset of **Corona virus patients from South Korea**
