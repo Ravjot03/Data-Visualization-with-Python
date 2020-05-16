@@ -23,3 +23,6 @@ This repository contains Data Visualization projects in Python.
 
 - ## [COVID-19 VISUALIZATIONS PROJECT](https://github.com/Ravjot03/Covid-19-Visualizations):
     This project contains dataset of **Corona virus patients from South Korea**
+    
+- ## [Facebook Dataset Visualizations Project](https://github.com/Ravjot03/Facebook-dataset):
+    This project contains visualization of **facebook dataset**.
