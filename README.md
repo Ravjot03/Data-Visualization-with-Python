@@ -1,9 +1,9 @@
 # Data-Visualization-with-Python
-This repository contains Data Visualization projects in Python.
+This repository contains different Data Visualization techniques in Python Programming Language.
 
 ==========================================================================
 
-- ## [Data Visualization with Seaborn](https://github.com/Ravjot03/Data-Visualization-with-Seaborn):
+- ## [Data Visualization with Seaborn Package](https://github.com/Ravjot03/Data-Visualization-with-Seaborn):
   
   1. ### [Categorical Plots in Seaborn](https://github.com/Ravjot03/Data-Visualization-with-Seaborn/tree/master/Categorical%20Plot):
         Creating Categorical plots in Seaborn. Categorical plot includes Count, Bar, Box and Point plots.
@@ -21,8 +21,9 @@ This repository contains Data Visualization projects in Python.
   7. ### [Data Aware Grids in Seaborn](https://github.com/Ravjot03/Data-Visualization-with-Seaborn/tree/master/Data%20Aware%20Grids):
         Creating FacetGrid, PairGrid and JointGrid plots in Seaborn.
 
-- ## [COVID-19 VISUALIZATIONS PROJECT](https://github.com/Ravjot03/Covid-19-Visualizations):
-    This project contains dataset of **Corona virus patients from South Korea**
+- ## Projects:
+  * ### [COVID-19 VISUALIZATIONS PROJECT](https://github.com/Ravjot03/Covid-19-Visualizations):
+      This project contains dataset of **Corona virus patients from South Korea** 
     
-- ## [Facebook Dataset Visualizations Project](https://github.com/Ravjot03/Facebook-dataset):
-    This project contains visualization of **facebook dataset**.
+  * ### [Facebook Dataset Visualizations Project](https://github.com/Ravjot03/Facebook-dataset):
+      This project contains visualization of **facebook dataset**.
