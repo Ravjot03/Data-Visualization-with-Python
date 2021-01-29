@@ -22,8 +22,8 @@ This repository contains different Data Visualization techniques in Python Progr
         Creating FacetGrid, PairGrid and JointGrid plots in Seaborn.
 
 - ## Projects:
-  * ### [COVID-19 VISUALIZATIONS PROJECT](https://github.com/Ravjot03/Covid-19-Visualizations):
-      This project contains dataset of **Corona virus patients from South Korea** 
+  * ### [COVID-19 Visualizations Project](https://github.com/Ravjot03/Covid-19-Visualizations):
+      In this project, I have performed Data Visualizations on the dataset of **Corona virus patients from South Korea**, and provided insights from it.
     
   * ### [Facebook Dataset Visualizations Project](https://github.com/Ravjot03/Facebook-dataset):
-      This project contains visualization of **facebook dataset**.
+      In this project, built some visualizations on the **facebook dataset**.
